@@ -29,9 +29,5 @@ Blog_mini是一个开源的博客系统，用Python开发完成，具有简洁�
 
     Blog_mini采用结构清晰的工厂模式来设计开发，其中的一些开发思想模仿了国外牛人miguelgrinberg，因此，值得一学！
 
-### 5.技术支持
-如果你在部署和使用过程中有疑问，请给作者留言：
 
-    作者51cto博客：http://xpleaf.blog.51cto.com
-    作者个人博客网站：http://www.xpleaf.com
     
